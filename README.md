@@ -6,6 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 this is a flutter note app.
+it's a simple app with a simple ui.
 
 A few resources to get you started if this is your first Flutter project:
 
