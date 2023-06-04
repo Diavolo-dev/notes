@@ -2,10 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+# Getting Started
 
 This project is a starting point for a Flutter application.
-
 it's a simple app with a simple ui.
 our perpose is to give you a simple note taking appp that does not leave you with a lot of features that you dont want.
 A few resources to get you started if this is your first Flutter project:
