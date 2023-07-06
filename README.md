@@ -5,7 +5,7 @@ A new Flutter project.
 # Getting Started
 
 This project is a starting point for a Flutter application.
-our perpose is to give you a simple note taking appp that does not leave you with a lot of features that you dont want.
+our perpose is to give you a simple note taking appp that does not leave you 
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
